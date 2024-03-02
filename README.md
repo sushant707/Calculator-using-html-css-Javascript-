@@ -37,5 +37,5 @@ If you want to add 5 and 3:
 - JavaScript
 Contributors
 - Sushant Chavan - Creator
-License
+## License
 This project is licensed under the MIT License.
