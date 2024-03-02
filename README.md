@@ -12,13 +12,13 @@ The calculator supports the following operations:
 - Multiplication (*)
 - Division (/)
 
-##How to Use
+## How to Use
 1. Enter the first number.
 2. Select the operation (+, -, *, /).
 3. Enter the second number.
 4. Click the "Calculate" button to see the result.
 
-##Example
+## Example
 If you want to add 5 and 3:
 
 1. Enter 5.
